@@ -16,67 +16,99 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-
-# ⚡ SYSTEM BOOT
-
-```text
-> Initializing...
-> Loading developer profile...
-> Status: ONLINE ██████████ 100%
-
-Name      : Muths
-Location  : India
-Role      : Student • Developer • Builder
-Mission   : Build cool things. Break limits. Repeat.
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Electronics+Engineering+Student;Web+Developer;Cybersecurity+Enthusiast;Learning+Something+New+Every+Day;Welcome+to+my+GitHub!" />
-
----
-
-### ⚙ CURRENT STATUS
-
-```yaml
-Studying:
-  - Electronics & Communication Engineering
-Learning:
-  - Web Development
-  - Cybersecurity
-Building:
-  - Portfolio Website
-Goal:
-  - Become impossible to ignore.
-```
-
----
-
-### 📊 GITHUB
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
----
-
-### 💻 TECH STACK
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux"/>
+ssh syd.zkir@github
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=900&lines=ssh+syd.zkir@github.com;Authenticating...;Access+Granted+✓;Welcome+back,+Syed+Zakir+Hasan."/>{=html}
 </p>
+┌──(visitor㉿github)-[~]
+└─$ ssh syd.zkir@github.com
 
----
+Authenticating...
+Password:
+••••••••••••••••
 
-### 🧠 RANDOM DEV QUOTE
+Welcome to Ubuntu 24.04 LTS (GNU/Linux x86_64)
 
-> "Code is temporary. Skills are permanent."
+System load : ███░░░░░░ 24%
+Memory      : █████░░░░ 49%
+Shell       : bash
+Hostname    : github.com
+Uptime      : Since first commit
 
----
+Last login: Just now
+syd.zkir@github:~$ whoami
+Name: Syed Zakir Hasan
+Alias: syd.zkir
 
-### 🛰 VISITOR LOG
+Role:
+  - Electronics Engineering @ AMU
+  - JEE 2027 Aspirant
+  - Full Stack Developer
+  - Cybersecurity Learner
+syd.zkir@github:~$ tree
+.
+├── portfolio/
+├── cybersecurity/
+├── electronics/
+├── full-stack/
+├── linux/
+├── side-projects/
+├── resume.pdf
+└── life_goals.md
+syd.zkir@github:~$ cat life_goals.md
+- Crack JEE 2027
+- Become an Elite Security Engineer
+- Build products people love
+- Contribute to Open Source
+- Never stop learning.
+syd.zkir@github:~$ htop
+CPU  ████████░░░░ 53%
+RAM  █████░░░░░░ 41%
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=00F7FF&style=for-the-badge"/>
+PID  PROCESS             STATUS
+101  portfolio.dev       Running
+122  cybersecurity       Running
+211  jee_2027            Running
+404  motivation          Restarting...
+500  consistency         Running
+999  procrastination     Killed ✔
+syd.zkir@github:~$ skills
+Python       ███████████████░ 90%
+HTML         ████████████████ 100%
+CSS          ███████████████░ 95%
+JavaScript   █████████████░░░ 85%
+Java         ███████████░░░░░ 75%
+Linux        ██████████████░░ 88%
+Git          █████████████░░░ 84%
+📊 Live Diagnostics
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SyedZakirHasan&show_icons=true&theme=midnight-purple&hide_border=true"/>{=html} <img height="180" src="https://streak-stats.demolab.com?user=SyedZakirHasan&theme=midnight-purple&hide_border=true"/>{=html}
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedZakirHasan&theme=github-dark&hide_border=true"/>{=html}
+</p>
+🌐 Links
+Portfolio : https://your-portfolio-link
+LinkedIn  : https://linkedin.com/in/your-profile
+Email     : your@email.com
+syd.zkir@github:~$ sudo apt install success
+Installing...
 
-</div>
+✔ consistency
+✔ patience
+✔ failures
+✔ persistence
+
+Done.
+syd.zkir@github:~$ fortune
+"The best code is the one that taught you something."
+syd.zkir@github:~$ exit
+logout
+Connection closed.
+
+See you after the next commit.
+/*
+ * Thanks for scrolling this far.
+ * If you're reading this,
+ * maybe we'll build something awesome together.
+ */
