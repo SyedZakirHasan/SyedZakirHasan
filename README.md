@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image alt](https://github.com/SyedZakirHasan/SyedZakirHasan/blob/00d91491e9d0108f5df5d624f4d7a05e5da96f98/image.png)
 
 
 
