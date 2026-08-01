@@ -319,3 +319,178 @@ Learning                   █████████████████�
 ### ⚡ "Great software is built one commit at a time."
 
 </div>
+
+
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                         -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+> *A few highlights from my journey. Replace these with your own repositories.*
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌌 Project One
+> `add_project_here`
+
+✨ Modern full-stack application built with scalable architecture.
+
+**Tech**
+- React
+- Node.js
+- MongoDB
+
+⭐ Status: Active Development
+
+</td>
+
+<td width="50%">
+
+### ⚡ Project Two
+> `add_project_here`
+
+A fast and responsive web application focused on performance and clean UI.
+
+**Tech**
+
+- Next.js
+- TailwindCSS
+- Firebase
+
+🚀 Always improving
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Project Three
+> `add_project_here`
+
+Cybersecurity-related learning project.
+
+Includes scripting, networking and automation.
+
+</td>
+
+<td width="50%">
+
+### 💜 Secret Project
+
+Coming Soon...
+
+Building something awesome 👀
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏆 Achievements
+
+- 🎓 Electronics Engineering Student @ AMU
+- 💻 Full Stack Developer
+- 🔐 Learning Cybersecurity
+- 🌱 Passionate about Open Source
+- 📚 Preparing for JEE 2027
+- 🚀 Always exploring new technologies
+- ⭐ Building projects every semester
+- 🤝 Loves collaborating with developers
+
+---
+
+# 🗺️ 2027 Roadmap
+
+```text
+█████████████████████████████░ 95%
+Modern Web Development
+
+██████████████████████░░░░░░░░ 75%
+Cybersecurity
+
+████████████████████░░░░░░░░░░ 65%
+Linux & Networking
+
+███████████████████████░░░░░░░ 80%
+DSA & Problem Solving
+
+██████████████████████████░░░░ 90%
+Open Source Contributions
+
+███████████████████░░░░░░░░░░░ 60%
+Competitive Programming
+```
+
+---
+
+# 📚 Currently Learning
+
+```yaml
+Frontend:
+  - Next.js
+  - React
+  - TailwindCSS
+
+Backend:
+  - Node.js
+  - Express
+  - REST APIs
+
+Database:
+  - MongoDB
+  - PostgreSQL
+
+Cybersecurity:
+  - Linux
+  - Networking
+  - Bash
+  - Python
+  - Web Security
+
+Engineering:
+  - Electronics
+  - Digital Systems
+  - Embedded Concepts
+```
+
+---
+
+# 💡 Developer Mindset
+
+```text
+Think → Design → Build → Break → Learn → Improve → Repeat
+```
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel)](add_portfolio_here)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](add_linkedin_here)
+
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x)](add_twitter_here)
+
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail)](mailto:add_email_here)
+
+[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome)](add_website_here)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 Thanks for visiting my profile.
+
+*"Stay curious. Build boldly. Keep learning."*
+
+</div>
