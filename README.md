@@ -158,3 +158,164 @@ because I believe learning never stops.
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d6e7d8d-6b18-4df5-a7df-89d2b8fef3fd.gif" width="900">
 
 </div>
+
+
+
+
+
+<!-- ========================================================= -->
+<!--                  TECH STACK & GITHUB STATS                -->
+<!-- ========================================================= -->
+
+# 💜 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css,bash"/>
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux"/>
+
+### ⚙ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase"/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+### ☁ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,linux,github,git,vercel,netlify"/>
+
+### 🔐 Cybersecurity
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python"/>
+
+### 🎨 Design
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop"/>
+
+</div>
+
+---
+
+# ⚡ Tech Arsenal
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs"/>
+
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs"/>
+
+<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss"/>
+
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus"/>
+
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux"/>
+
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=SyedZakirHasan&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedZakirHasan&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SyedZakirHasan&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedZakirHasan&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SyedZakirHasan&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# ⚡ Coding Activity
+
+```text
+Full Stack Development     ████████████████████ 90%
+
+Cybersecurity              ██████████████░░░░░ 65%
+
+Electronics                ███████████████░░░░ 70%
+
+Problem Solving            █████████████████░░ 80%
+
+Open Source                ███████████░░░░░░░░ 55%
+
+Learning                   ███████████████████ 100%
+```
+
+---
+
+# 🚀 Currently Exploring
+
+- 🔐 Cybersecurity & Ethical Hacking
+- 🌐 Full Stack Architectures
+- ⚙️ Backend Performance
+- 🤖 AI-powered Applications
+- 📡 Networking
+- 🖥️ Linux Internals
+- ☁️ Cloud Deployment
+- 📱 Modern UI/UX
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=SyedZakirHasan&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Great software is built one commit at a time."
+
+</div>
