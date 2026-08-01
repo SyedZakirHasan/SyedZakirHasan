@@ -1,9 +1,4 @@
-
-<p align="center">
-  <div style="width: 100%; height: 200px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-    <img src="[YOUR_UPLOADED_IMAGE_URL.jpg](https://github.com/SyedZakirHasan/SyedZakirHasan/blob/00d91491e9d0108f5df5d624f4d7a05e5da96f98/image.png)" style="width: 100%; object-fit: cover; object-position: 50% 30%;">
-  </div>
-</p>
+[![header]()](https://google.com)
 
 
 
